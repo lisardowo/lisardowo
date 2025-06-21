@@ -9,10 +9,12 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,python,electron&perline=5" />
 
   </a>
-  <a href="https://skillicons.dev">
+  
+</p>
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
  </a>
-</p>
+ 
 </div>
 <!--
 **lisardowo/lisardowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
