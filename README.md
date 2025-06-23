@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=B85DF7&center=true&vCenter=true&width=435&lines=I+love+to+build+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=B85DF7&center=true&vCenter=true&width=435&lines=Create+like+a+child+and+edit+like+a+scientist)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&color=F785D6&center=true&vCenter=true&repeat=false&width=435&lines=Lisardo+Sobrado+Morales)](https://git.io/typing-svg)
 
