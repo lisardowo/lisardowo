@@ -19,7 +19,7 @@
 <!--
 **lisardowo/lisardowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Working on ChipssStoree List 
+- 🔭 Working on ChipssStoree 
 - 🌱 Software engineering student 
 - 💬 Always looking for feedback and suggestions
 - 😄 Pronouns: they/them
