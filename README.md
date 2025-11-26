@@ -12,7 +12,7 @@
   
 </p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,cpp,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,c,tailwind" />
  </a>
  
 </div>
