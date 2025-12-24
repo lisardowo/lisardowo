@@ -19,11 +19,13 @@
 <!--
 **lisardowo/lisardowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Working on ChipssStoree 
+- 🔭 Working on S.T.A.R.S 
 - 🌱 Software engineering student 
 - 💬 Always looking for feedback and suggestions
-- 😄 Pronouns: they/them
+- 😄 Learning: typescript
+- 🐧 Pronouns: They/them
 - ⚡ Feel free to ask me about anything, I love to help!
+- 
 <div align=center>
   Contact me at:<br>
   <a href="https://instagram.com/ugh.pp3nguin">
