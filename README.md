@@ -25,7 +25,7 @@
 - 😄 Learning: typescript
 - 🐧 Pronouns: They/them
 - ⚡ Feel free to ask me about anything, I love to help!
-- 
+![Snake animation](https://github.com/lisardowo/lisardowo/blob/output/github-contribution-grid-snake.svg)
 <div align=center>
   Contact me at:<br>
   <a href="https://instagram.com/ugh.pp3nguin">
