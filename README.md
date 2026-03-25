@@ -19,10 +19,10 @@
 <!--
 **lisardowo/lisardowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Working on S.T.A.R.S 
+- 🔭 Working on H>E>R>M>E>S 
 - 🌱 Software engineering student 
 - 💬 Always looking for feedback and suggestions
-- 😄 Learning: typescript
+- 😄 Learning: cibersecurity and home labing!
 - 🐧 Pronouns: They/them
 - ⚡ Feel free to ask me about anything, I love to help!
 ![Snake animation](https://github.com/lisardowo/lisardowo/blob/output/github-contribution-grid-snake-dark.svg)
