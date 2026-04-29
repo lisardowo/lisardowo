@@ -22,7 +22,7 @@
 - 🔭 Working on H>E>R>M>E>S 
 - 🌱 Software engineering student 
 - 💬 Always looking for feedback and suggestions
-- 😄 Learning: cibersecurity and home labing!
+- 🎴 cibersecurity researcher and home labing enthusiast!
 - 🐧 Pronouns: They/them
 - ⚡ Feel free to ask me about anything, I love to help!
 ![Snake animation](https://github.com/lisardowo/lisardowo/blob/output/github-contribution-grid-snake-dark.svg)
@@ -41,3 +41,17 @@
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
   </a>
 </div>
+<div align="center">
+
+![Wakatime Stats]([https://github-readme-stats.hackclub.dev/api/wakatime?username=25679&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&langs_count=8&theme=tokyonight&hide_border=true](https://github-readme-stats.hackclub.dev/api/wakatime?username=lisardowo&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&langs_count=8&theme=tokyonight&hide_border=true))
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lisardowo&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lisardowo&theme=tokyonight&hide_border=true)
+
+</div>
+
