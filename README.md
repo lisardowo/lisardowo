@@ -26,13 +26,14 @@
 - 🐧 Pronouns: They/them
 - ⚡ Feel free to ask me about anything, I love to help!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lisardowo&layout=compact&theme=tokyonight&hide_border=true)
-
-![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=lisardowo&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&langs_count=8&theme=tokyonight&hide_border=true))
 
 
 
 <div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lisardowo&layout=compact&theme=tokyonight&hide_border=true)
+
+![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=lisardowo&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lisardowo&theme=tokyonight&hide_border=true)
 
