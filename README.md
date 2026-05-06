@@ -37,7 +37,7 @@
 ### Languages & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,assembly,js,react,electron,html,css&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,assembly,js,react,electron,go,rust&perline=10" />
   </a>
 </p>
 
