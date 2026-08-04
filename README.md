@@ -6,14 +6,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=B85DF7&center=true&vCenter=true&width=435&lines=Create+like+a+child)](https://git.io/typing-svg)
 
 <p align="center">
-  -🔭 <b>Working on:</b> H>E>R>M>E>S <br>
+  -🔭 <b>Working on:</b> EYE IN THE SKY <br>
   -🌱 Software Engineering Student <br>
   -🎴 Cybersecurity Researcher & Home Lab Enthusiast <br>
   -💬 Always looking for feedback and suggestions <br>
   🐧 <b>Pronouns:</b> They/them<br>
   - ⚡ Feel free to ask me about anything, I love to help!
 </p>
-
+  Now I also have a [website](https://tilde.club/~pkgnn/) btw
 ---
 
 ### Activity
