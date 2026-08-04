@@ -13,7 +13,7 @@
   🐧 <b>Pronouns:</b> They/them<br>
   - ⚡ Feel free to ask me about anything, I love to help!
 </p>
-  Now I also have a [website](https://tilde.club/~pkgnn) btw
+  Now I also have a [website]( https://tilde.club/~pkgnn ) btw
 ---
 
 ### Activity
