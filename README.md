@@ -22,7 +22,7 @@
 
 <div align="center">
  
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=lisardowo&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=lisardowo&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&langs_count=4&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
   <br>
   <img src="https://streak-stats.demolab.com?user=lisardowo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
