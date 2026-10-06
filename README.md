@@ -52,12 +52,13 @@
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium,kitty,git,discord,slack,ghidra&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium,kitty,git,discord,slack,neovim&perline=10" />
   </a>
 </p>
 <p align = "center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lisardowo&show_icons=true&theme=nightowl&count_private=true" alt="Top Languages" />
 </p>
+
 
 ---
 
